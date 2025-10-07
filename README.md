@@ -13,4 +13,4 @@
 ## Как запустить
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://taratkach.github.io/portfolio/
+   https://taratkach.github.io/portfolio/
